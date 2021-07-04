@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroDiehl
-- 👀 I’m interested in Automation, Python, SQL, C, C#
-- 📫 How to reach me Mainly: diehl.pedroh@gmail.com Secondary: eng.pdiehl@gmail.com
+- 👀 I’m interested in Automation, C, C#, Python, Robotics, SQL
+- 📫 How to reach me main: diehl.pedroh@gmail.com \\ alternative: eng.pdiehl@gmail.com
 
 <!---
 PedroDiehl/PedroDiehl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
