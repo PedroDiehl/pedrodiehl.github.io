@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedroDiehl
-- 👀 I’m interested in Automation
+- 👀 I’m interested in Automation, Python, SQL, MongoDB, BI, IoT
 - 📫 How to reach me main: diehl.pedroh@gmail.com \\ alternative: eng.pdiehl@gmail.com
 
 
