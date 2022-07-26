@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=PedroDiehl&color=green" alt="PedroDiehl" /> 
 
 
-![snake gif](https://github.com/PedroDiehl/PedroDiehl/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/PedroDiehl/PedroDiehl/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
